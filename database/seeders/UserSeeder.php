@@ -27,11 +27,5 @@ class UserSeeder extends Seeder
             'email' => 'fadil@editor.com',
             'password' => bcrypt(12345),
         ]);
-        User::create([
-            'name'=> 'dil',
-            'level'=> 'pengunjung',
-            'email' => 'dil@editor.com',
-            'password' => 12345,
-        ]);
     }
 }

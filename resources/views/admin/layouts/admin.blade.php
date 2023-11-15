@@ -31,7 +31,7 @@
     <div id="wrapper">
 
         <!-- Sidebar -->
-        @include('partials.sidebar')
+        @include('admin.partials.sidebar')
         <!-- End of Sidebar -->
 
         <!-- Content Wrapper -->
@@ -41,7 +41,7 @@
             <div id="content">
 
                 <!-- Topbar -->
-                @include('partials.navbar')
+                @include('admin.partials.navbar')
                 <!-- End of Topbar -->
 
                 <!-- Begin Page Content -->

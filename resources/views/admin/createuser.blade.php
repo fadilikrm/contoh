@@ -5,7 +5,6 @@
     <input type="email" name="email"><br><br>
     <select name="level">
         <option value="">Pilih Level User</option>
-        <option value="pengunjung">Pengunjung</option>
         <option value="editor">Editor</option>
         <option value="admin">Admin</option>
     </select>
